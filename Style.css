@@ -32,7 +32,7 @@ nav{
     align-items: center;
 }
 .logo{
-    width: 10px;
+    width: 20px;
     height: 30px;
 }
 .navbar .right-row{
@@ -170,7 +170,7 @@ border-radius: 100%;
     font-family: 'Mulish';
  }
  .container-skill {
-    background-color: #C499F3;
+    background-color:white;
     text-align: center;
     padding: 70px;
     color: black;
@@ -193,7 +193,7 @@ border-radius: 100%;
 }
 
 .card-skill {
-    background-color: white;
+    background-color: #C499F3;
     width: 200px;
     height: 300px;
     border-radius: 10px;
@@ -204,8 +204,8 @@ border-radius: 100%;
 }
 
 .card-skill:hover {
-    transform: translateY(-5px);
-   box-shadow: 5px 5px 5px ;
+transform: translateX(5px);
+  background-color: #F2AFEF;
 }
 
 .icon-skill {

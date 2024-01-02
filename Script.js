@@ -28,5 +28,5 @@ data.forEach(element => {
     <button class="read-more">Read More</button>
 </div>`
 
-});
+}); 
 
