@@ -32,8 +32,9 @@ nav{
     align-items: center;
 }
 .logo{
-    width: 20px;
+    width: 10px;
     height: 30px;
+    margin-right: 70PX;
 }
 .navbar .right-row{
     display: flex;
